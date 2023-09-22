@@ -6,25 +6,23 @@
 	<p>✨ Platforms & Languages</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	- Back-end : <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/kakao login api (oauth2.0)-FFCD00?style=flat&logo=kakao&logoColor=white">
 	<br>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+- Front-end : <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/kakao map api-FFCD00?style=flat&logo=kakao&logoColor=white">
 	<br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-</div>
-<br>
-<div align=center>
-	<p>🛠 Tools</p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ-2C2255?style=flat&logo=IntelliJ&logoColor=white" />
+- Database : <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 	<br>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+- IDE : <img src="https://img.shields.io/badge/IntelliJ IDEA Ultimate-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
+	<br>
+- SCM : <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+	<br>
+- TEST : <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
+	<br>
+- CI/CD : <img src="https://img.shields.io/badge/github actions-2088FF?style=flat&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/aws s3-569A31?style=flat&logo=amazons3&logoColor=white">
+	<br>
+- Communication : <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white">
+	<br>
+- ETC : <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
 </div>
 <br>
 <div align=center>
@@ -38,7 +36,7 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://mountain-innovation-537.notion.site/c07d3cafabc540f3b55f5846b7c96d3b?pvs=4">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
