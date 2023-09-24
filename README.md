@@ -18,7 +18,9 @@
 	<br>
 - TEST : <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 	<br>
-- CI/CD : <img src="https://img.shields.io/badge/github actions-2088FF?style=flat&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/aws s3-569A31?style=flat&logo=amazons3&logoColor=white">
+- CI/CD : <img src="https://img.shields.io/badge/github actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+	<br>
+- Storage : <img src="https://img.shields.io/badge/aws s3-569A31?style=flat&logo=amazons3&logoColor=white">
 	<br>
 - Communication : <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white">
 	<br>
